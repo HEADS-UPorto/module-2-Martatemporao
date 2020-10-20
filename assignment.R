@@ -1,3 +1,3 @@
 cat <- 2
-class(cat)
-typeof(cat)
+cat(class(cat))
+cat(typeof(cat))
